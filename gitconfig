@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = timfawcett21@gmail.com
+	name = Tim Fawcett
